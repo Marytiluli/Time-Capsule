@@ -22,4 +22,5 @@ header {
   color: #ffffff;
   text-align: center;
   padding: 1rem 1.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
