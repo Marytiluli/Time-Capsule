@@ -37,4 +37,5 @@ header p {
 /* Main Layout */
 main {
   width: 100%;
+  max-width: 900px;
 }
