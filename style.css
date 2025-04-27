@@ -35,3 +35,6 @@ header p {
 }
 
 /* Main Layout */
+main {
+  width: 100%;
+}
