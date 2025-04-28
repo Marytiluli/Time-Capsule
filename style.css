@@ -44,4 +44,5 @@ main {
 /* Sections */
 .section {
   background-color: #ffffff;
+  padding: 2rem 1.5rem;
 }
