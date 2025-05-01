@@ -59,4 +59,5 @@ main {
 /* Capsule Form */
 #capsule-form {
   display: flex;
+  flex-direction: column;
 }
