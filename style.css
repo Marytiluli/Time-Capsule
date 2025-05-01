@@ -65,4 +65,5 @@ main {
 
 #capsule-form textarea {
   padding: 0.8rem;
+  border: 1px solid #ccc;
 }
