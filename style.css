@@ -62,3 +62,7 @@ main {
   flex-direction: column;
   gap: 1rem;
 }
+
+#capsule-form textarea {
+  padding: 0.8rem;
+}
