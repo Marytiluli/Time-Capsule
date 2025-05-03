@@ -70,3 +70,8 @@ main {
   font-size: 1rem;
   resize: none;
 }
+
+
+#capsule-form input[type="date"] {
+  padding: 0.8rem;
+}
