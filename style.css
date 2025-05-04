@@ -75,4 +75,5 @@ main {
 #capsule-form input[type="date"] {
   padding: 0.8rem;
   border: 1px solid #ccc;
+  border-radius: 6px; 
 }
