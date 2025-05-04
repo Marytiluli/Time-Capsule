@@ -77,3 +77,7 @@ main {
   border: 1px solid #ccc;
   border-radius: 6px; 
 }
+
+#capsule-form button {
+  background-color: #3949ab;
+}
