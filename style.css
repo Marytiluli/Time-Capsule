@@ -91,4 +91,5 @@ main {
 
 #capsule-form button:hover {
   background-color: #283593;
+  transform: scale(1.05);
 }
