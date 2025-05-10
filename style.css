@@ -96,3 +96,6 @@ main {
 
 
 /* Capsule List */
+#capsules {
+  list-style: none;
+}
