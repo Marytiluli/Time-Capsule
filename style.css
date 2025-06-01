@@ -109,3 +109,37 @@ main {
   margin-bottom: 1rem; 
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); 
 }
+
+.capsule h3 {
+  font-size: 1.4rem; 
+  color: #3949ab; 
+}
+
+.capsule .date,
+.capsule .message {
+  margin-top: 0.5rem; 
+  font-size: 1rem; 
+  color: #666; 
+}
+
+.capsule .status {
+  margin-top: 0.8rem; 
+  font-weight: bold; 
+  color: #d32f2f; 
+}
+
+.capsule button {
+  margin-top: 1rem; 
+  padding: 0.6rem 1rem; 
+  background-color: #d32f2f; 
+  color: #ffffff; 
+  border: none; 
+  border-radius: 6px; 
+  cursor: pointer; 
+  transition: background-color 0.3s, transform 0.2s; 
+}
+
+.capsule button:hover {
+  background-color: #b71c1c; 
+  transform: scale(1.05); 
+}
