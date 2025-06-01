@@ -143,3 +143,13 @@ main {
   background-color: #b71c1c; 
   transform: scale(1.05); 
 }
+
+/* Footer */
+footer {
+  background-color: #3949ab; 
+  color: #ffffff; 
+  text-align: center; 
+  padding: 1rem; 
+  font-size: 0.9rem; 
+  width: 100%; 
+}
